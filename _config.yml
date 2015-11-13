@@ -1,9 +1,7 @@
-favicon: null
 name: cybrbrother
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.5089605
+typography_spectrum: 0.5057723114732653
 collections:
   - index:
       path: /
@@ -16,20 +14,23 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.3655914
-  lightness: 0.218638
-  brandStrength: 0.625
-  brandColors: []
-  rhythmicContrast: 0.5089605
-typography_spectrum: 0.5057723114732653
-layout_spectrum: 0.5089605
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+title: cyb3r br0th3r
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.625
+  lightness: 0.218638
+  saturation: 0.3655914
+  rhythmicContrast: 0.5089605
+purpose: []
